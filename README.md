@@ -1,5 +1,17 @@
 Ecommerce Project2
 
+Features:
+
+Home (List products)
+
+Detail products
+
+Product category
+
+Cart
+
+Login 
+
 Output
 
 
