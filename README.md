@@ -1,4 +1,4 @@
-<strong>Ecommerce Project2</strong>
+<strong>Shop Online </strong>
 
 <strong>Features:</strong>
 
