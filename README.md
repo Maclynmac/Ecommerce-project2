@@ -1,8 +1,13 @@
-<strong>Shop Online </strong>
+<strong>Shopping Online </strong>
 
 <strong>Features:</strong>
 
-Register an new account, and log in as an existing user.
+
+<ul>
+  
+<li>Register an new account, and log in as an existing user.<li>
+
+</ul>
 
 Only People with admin account can add other products.
 
@@ -31,6 +36,7 @@ Product category
 Cart
 
 Login 
+
 
 <strong>Technologies Used:</strong>
 
