@@ -14,6 +14,14 @@ Login
 
 Technologies Used:
 
+React.js
+
+Hooks
+
+Redux Toolkit
+
+CSS
+
 Output
 
 
