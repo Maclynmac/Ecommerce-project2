@@ -32,7 +32,7 @@ Cart
 
 Login 
 
-Technologies Used:
+<strong>Technologies Used:</strong>
 
 React.js
 
