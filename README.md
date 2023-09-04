@@ -39,13 +39,17 @@
 
 <strong>Technologies Used:</strong>
 
-React.js
+<ul>
+  
+<li>React.js</li>
 
-Hooks
+<li>Hooks</li>
 
-Redux Toolkit
+<li>Redux Toolkit</li>
 
-CSS
+<li>CSS</li>
+
+</ul>
 
 Output
 
