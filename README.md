@@ -1,4 +1,4 @@
-Ecommerce Project2
+<strong>Ecommerce Project2</strong>
 
 <strong>Features:</strong>
 
