@@ -2,7 +2,6 @@
 
 <strong>Features:</strong>
 
-
 <ul>
   
 <li>Register an new account, and log in as an existing user.</li>
