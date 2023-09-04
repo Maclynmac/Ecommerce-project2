@@ -1,6 +1,6 @@
 Ecommerce Project2
 
-Features:
+<strong>Features:</strong>
 
 Register an new account, and log in as an existing user.
 
